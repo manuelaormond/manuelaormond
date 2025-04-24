@@ -1,4 +1,6 @@
-## Hello Word 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0ABAB5&height=120&section=header"/>
+# Manuela Ormond
+## estudante de ciencia de dados pela ebac
 
 <!--
 **manuelaormond/manuelaormond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

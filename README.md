@@ -1,9 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0ABAB5&height=120&section=header"/>
-# Manuela Ormond
-## estudante de ciencia de dados pela ebac
 
-<!--
-**manuelaormond/manuelaormond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#                      ✨ *Manuela Ormond* ✨
+## 24, Estudante de ciência de dados - EBAC 💻
+
+
+
+<!-- **manuelaormond/manuelaormond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
